@@ -1,0 +1,38 @@
+[
+  {"id": 0,
+    "title": "Backpack bag",
+    "amount": 120.00
+  },
+  {"id": 1,
+    "title": "iPad",
+    "amount": 760.00
+  },
+  {"id": 2,
+    "title": "Mac Book",
+    "amount": 1620.00
+  },
+  {"id": 3,
+    "title": "Watch",
+    "amount": 900.00
+  },
+  {"id": 4,
+    "title": "Shoes",
+    "amount": 340.00
+  },
+  {"id": 5,
+    "title": "Travel",
+    "amount": 1000.00
+  },
+  {"id": 6,
+    "title": "Sky Diving",
+    "amount": 200.00
+  },
+  {"id": 7,
+    "title": "Owe Alex",
+    "amount": 70.00
+  },
+  {"id": 8,
+    "title": "Owe Allen",
+    "amount": 1000.00
+  }
+]
