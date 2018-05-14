@@ -9,10 +9,6 @@ import { Provider } from 'react-redux';
 import { createStore, applyMiddleware } from 'redux';
 import ReduxThunk from 'redux-thunk';
 import reducers from './src/reducers';
-
-import AlbumsList from './src/components/AlbumsList';
-import LoginForm from './src/components/LoginForm';
-import TechStackList from './src/components/TechStackList';
 import WishListList from './src/components/WishListList';
 
 type Props = {};

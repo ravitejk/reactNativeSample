@@ -28,7 +28,7 @@ class WishListList extends Component{
 
   render(){
     if(this.props.isWishListEmpty)
-      return <EmptyList/>
+      return <EmptyList/>;
     else
       return(
         <ListView dataSource={this.dataSource}
@@ -39,9 +39,8 @@ class WishListList extends Component{
 }
 
 const mapStateToProps = state =>{
-  console.log(state.wishListData.length);
   return {
-    isWishListEmpty: state.wishListData.length ===0 ? true:false,
+    isWishListEmpty: state.wishListData.length === 0 ? true:false,
     wishListData : state.wishListData
   };
 };
